@@ -1,4 +1,4 @@
 ﻿  ConsoleApplication2.cpp
-C:\Users\croc2\Downloads\prototyp\ConsoleApplication21\ConsoleApplication2\ConsoleApplication2.cpp(19,28): warning C4305: "argument": obcięcie z "double" do "float"
-C:\Users\croc2\Downloads\prototyp\ConsoleApplication21\ConsoleApplication2\ConsoleApplication2.cpp(21,27): warning C4305: "argument": obcięcie z "double" do "float"
-  ConsoleApplication2.vcxproj -> C:\Users\croc2\Downloads\prototyp\ConsoleApplication21\Debug\ConsoleApplication2.exe
+C:\Users\croc2\OneDrive\Dokumenty\GitHub\io\ConsoleApplication21\ConsoleApplication2\ConsoleApplication2.cpp(19,28): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\croc2\OneDrive\Dokumenty\GitHub\io\ConsoleApplication21\ConsoleApplication2\ConsoleApplication2.cpp(21,27): warning C4305: "argument": obcięcie z "double" do "float"
+  ConsoleApplication2.vcxproj -> C:\Users\croc2\OneDrive\Dokumenty\GitHub\io\ConsoleApplication21\Debug\ConsoleApplication2.exe
